@@ -11,7 +11,7 @@
   </p>
 
   <a href="https://aeonobs.org">
-    <img src="https://img.shields.io/badge/Website-ecoobs.org-blue?style=for-the-badge&logo=google-chrome" alt="Website">
+    <img src="https://img.shields.io/badge/Website-aeonobs.org-blue?style=for-the-badge&logo=google-chrome" alt="Website">
   </a>
   <a href="mailto:leiyo@dtu.dk">
     <img src="https://img.shields.io/badge/Contact-Academic-red?style=for-the-badge&logo=gmail" alt="Contact">
@@ -54,7 +54,7 @@ We operate as an "Open Core" laboratory. Our research infrastructure is split in
 > * `pip install aeon-lab` (Coming soon)
 
 ### 2. The Platform (SaaS) 🔒
-**[AEON Platform (ecoobs.org)](https://ecoobs.org)**
+**[AEON Platform (aeonobs.org)](https://aeonobs.org)**
 > The commercial-grade dashboard powered by the AEON SDK.
 > * **Use this if:** You are a social scientist, enterprise user, or policymaker requiring visual reports without coding.
 
@@ -83,7 +83,7 @@ We build on the intersection of Machine Learning, Convex Optimization, and Distr
     Built with 💙 at <strong>Technical University of Denmark (DTU)</strong> & <strong>AEON Lab</strong>.
   </p>
   <p>
-    <a href="https://ecoobs.org">Website</a> • 
+    <a href="https://aeonobs.org">Website</a> • 
     <a href="mailto:leiyo@dtu.dk">Contact Us</a>
   </p>
 </div>
