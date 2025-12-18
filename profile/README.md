@@ -51,7 +51,7 @@ We operate as an "Open Core" laboratory. Our research infrastructure is split in
 **[`aeon`](https://github.com/AEON-Observatory/aeon)**
 > The official Python SDK. It contains the mathematical implementation of our auditing algorithms.
 > * **Use this if:** You are a researcher or developer who wants to run audits in your own Python environment.
-> * `pip install aeon` (Coming soon)
+> * `pip install aeon-lab` (Coming soon)
 
 ### 2. The Platform (SaaS) 🔒
 **[AEON Platform (ecoobs.org)](https://ecoobs.org)**
