@@ -26,7 +26,7 @@
 
   <img src="https://github.com/AEON-Observatory/.github/blob/main/convex-hull-demo.png?raw=true" alt="Ecosystem Convex Hull Visualization" width="80%" />
   
-  <p><em>Fig 1. Model Uniqueness Analysis: Visualizing the semantic convex hull of a target model against a peer ecosystem.</em></p>
+  <p><em>Model Uniqueness Analysis: Visualizing the semantic convex hull of a target model against a peer ecosystem.</em></p>
 
 </div>
 
