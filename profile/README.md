@@ -80,7 +80,7 @@ We build on the intersection of Machine Learning, Convex Optimization, and Distr
 
 <div align="center">
   <p>
-    Built with 💙 at <strong>Technical University of Denmark (DTU)</strong> & <strong>AEON Lab</strong>.
+    Built with 💙 at <strong>Technical University of Denmark (DTU)</strong> & <strong>AEON Obs</strong>.
   </p>
   <p>
     <a href="https://aeonobs.org">Website</a> • 
