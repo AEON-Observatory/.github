@@ -3,7 +3,7 @@
   <h1>🔭 AEON Observatory</h1>
   
   <p>
-    <strong>AI Ecosystem Observatory Network</strong>
+    <strong>AI Ecosystem Observatory Network (AEON)</strong>
   </p>
 
   <p>
