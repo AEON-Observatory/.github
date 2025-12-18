@@ -10,7 +10,7 @@
     Mapping the Geography of Artificial Intelligence • Quantifying Model Identity • Detecting Algorithmic Monoculture
   </p>
 
-  <a href="https://ecoobs.org">
+  <a href="https://aeonobs.org">
     <img src="https://img.shields.io/badge/Website-ecoobs.org-blue?style=for-the-badge&logo=google-chrome" alt="Website">
   </a>
   <a href="mailto:leiyo@dtu.dk">
